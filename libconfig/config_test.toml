@@ -1,0 +1,7 @@
+log_level = "WARN"
+ids = [1, 2, 3]
+service_name = "name toml"
+service_version = "version toml"
+closer_graceful_timeout = "3"
+mode = "PROD"
+port = "99"
